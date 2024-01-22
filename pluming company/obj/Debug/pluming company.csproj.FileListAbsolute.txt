@@ -1,0 +1,7 @@
+F:\Visual Studio 2017\pluming company\pluming company\bin\Debug\pluming company.exe.config
+F:\Visual Studio 2017\pluming company\pluming company\bin\Debug\pluming company.exe
+F:\Visual Studio 2017\pluming company\pluming company\bin\Debug\pluming company.pdb
+F:\Visual Studio 2017\pluming company\pluming company\obj\Debug\pluming company.csprojAssemblyReference.cache
+F:\Visual Studio 2017\pluming company\pluming company\obj\Debug\pluming company.csproj.CoreCompileInputs.cache
+F:\Visual Studio 2017\pluming company\pluming company\obj\Debug\pluming company.exe
+F:\Visual Studio 2017\pluming company\pluming company\obj\Debug\pluming company.pdb
